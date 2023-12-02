@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aaaaa, I like you too";
+  question.innerHTML = "I Like u tooo dinnn :>";
   gif.src =
     "https://media.tenor.com/images/83d6a5ed40a24164dfe1e4e19fad23d9/tenor.gif";
 });
